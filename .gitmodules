@@ -1,0 +1,6 @@
+[submodule "mtg_simple_texture"]
+	path = mtg_simple_texture
+	url = https://github.com/Emojigit/mtg_simple_texture
+[submodule "ctf_simple_texture"]
+	path = ctf_simple_texture
+	url = https://github.com/Emojigit/ctf_simple_texture
